@@ -17,7 +17,7 @@ Clone the Repository:
 
     bash
     
-    git clone https://github.com/your-repo/task-scheduler-info-report.git
+    git clone https://github.com/wambui20/MyScript.git
     cd task-scheduler-info-report
 
 
