@@ -5,13 +5,15 @@ Task Scheduler Info Report is a PowerShell script designed to generate a compreh
 
 # Features
 
-    Comprehensive Task Listing: Quickly generate a report of all tasks scheduled on a Windows Server 2012.
-    Detailed Task Information: Get in-depth details about each task, including its name, status, trigger, next run time, and more.
-    Simplified Monitoring: Streamline your task management process by having all the relevant task details in one place.
+a) Comprehensive Task Listing: Quickly generate a report of all tasks scheduled on a Windows Server 2012.
+
+b) Detailed Task Information: Get in-depth details about each task, including its name, status, trigger, next run time, and more.
+
+c) Simplified Monitoring: Streamline your task management process by having all the relevant task details in one place.
 
 # Usage
 
-    Clone the Repository:
+Clone the Repository:
 
     bash
     git clone https://github.com/your-repo/task-scheduler-info-report.git
@@ -27,9 +29,4 @@ Open a PowerShell window with administrative privileges and execute the script:
 
 Review the Report:
 
-The script will output a detailed report of all scheduled tasks on the server. You can redirect this output to a file for easier review:
-
-    powershell
-
-    .\TaskSchedulerInfoReport.ps1 > ScheduledTasksReport.txt
-
+The script will output a detailed report of all scheduled tasks on the server on the file defined.
