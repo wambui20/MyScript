@@ -16,11 +16,13 @@ c) Simplified Monitoring: Streamline your task management process by having all 
 Clone the Repository:
 
     bash
+    
     git clone https://github.com/your-repo/task-scheduler-info-report.git
     cd task-scheduler-info-report
 
 
 Run the Script:
+
 Open a PowerShell window with administrative privileges and execute the script:
 
     powershell
