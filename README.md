@@ -18,7 +18,7 @@ Clone the Repository:
     bash
     
     git clone https://github.com/wambui20/MyScript.git
-    cd task-scheduler-info-report
+    cd MyScript
 
 
 Run the Script:
@@ -27,7 +27,7 @@ Open a PowerShell window with administrative privileges and execute the script:
 
     powershell
 
-    .\TaskSchedulerInfoReport.ps1
+    .\taskschedulerscript.ps1
 
 Review the Report:
 
